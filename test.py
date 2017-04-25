@@ -1,0 +1,1 @@
+hrs  = raw_input ('enter a hrs')

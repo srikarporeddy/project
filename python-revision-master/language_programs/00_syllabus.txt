@@ -1,0 +1,174 @@
+installation steps: windows
+
+pip install <library_name>
+
+virtual environment - https://virtualenv.pypa.io/en/stable/
+
+install:
+    pip install virtualenv
+
+create:
+    virtualenv testPython
+
+activate:
+    vEnv\Script\activate
+
+deactivate:
+    deactivate
+
+
+Pending :
+    pep-specification:
+        https://www.python.org/dev/peps/pep-0008/
+
+
+    virtualenv wrapper  || virtual environment wrapper
+	https://pypi.python.org/pypi/virtualenvwrapper-win
+	https://virtualenvwrapper.readthedocs.io/en/latest/
+
+
+
+
+variables
+
+operators   || pending bit wise
+data types
+
+taking user input
+command line arguments
+
+decisions  
+
+loops (continue & break) || loop control statements
+
+numbers
+strings
+
+list
+tuple
+dictionary
+
+sets
+frozen sets
+
+functions
+functions annotations
+
+module
+
+sys library
+os library
+
+and others
+
+Exceptions
+
+list comprehensions
+tuple comprehensions
+dict comprehensions
+set comprehensions
+
+objects and classes
+oops in python
+methods
+method overloading issue
+method overriding
+inheritance
+
+monkey patching (setattr, getattr, hasattr, delattr)
+duck typing
+abstaction
+
+1) 
+operator overloading
+user defined exception
+lambda functions
+map, reduce, filters
+
+
+2)
+file handling
+closures
+decorators
+generators
+
+
+3)
+iterables and iterators -> __iter__
+deep copy and shallow copy
+
+class methods
+static
+instance
+
+
+4)
+sockets (tcp and udp) + select socket
+
+multithreading
+sharing variables bw threads
+mutex
+semaphore
+
+multiprocessing
+sharing variables bw process
+
+thread pool
+process pool
+
+async thread
+async process
+
+
+concurrency and parallelism
+GIL - Global interpretar lock
+
+
+5)
+regular expressions
+
+python versions 2 & 3
+
+asyncio
+coroutines
+noseframework
+garbage collection
+
+unicodes
+meta class
+logging
+pylint
+pdb
+cprofile
+
+numpy
+NLTK
+
+itertool
+functool
+collection
+
+6) - 10)
+django - (DTL)
+django - (restframework)
+
+twisted klein
+bottle
+hug
+flask
+
+sqllite
+postgressql
+mongodb (MongoEngine) || pymongo
+
+redis
+memcache
+
+
+
+snake game (pygame, copied)
+multiplayer car game (socket)
+
+DTL django
+rest apis
+
